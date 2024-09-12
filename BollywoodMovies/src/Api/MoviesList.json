@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBvqixL04gNwaxg9hN5auiYYcF50Ae0pBWwA&s",
+        "name":"Laapataa Ladies",
+        "rating":8.4,
+        "Audio":"Hindi",
+        "Starring":"Nitanshi Goel, Pratibha Ranta, Sparsh Shrivastava",
+        "Subtitles":"English,Hindi",
+        "Web_url":"https://www.netflix.com/in/title/81760391"
+    },
+    {
+        "id":2,
+        "img":"https://cdn.123telugu.com/content/wp-content/uploads/2023/12/Animal-m.jpg",
+        "name":"Animal",
+        "rating":6.1,
+        "Audio":"English, Hindi [Original], Kannada, Malayalam, Tamil, Telugu",
+        "Starring":"Ranbir Kapoor, Anil Kapoor, Bobby Deol",
+        "Subtitles":"English,Hindi",
+        "Web_url":"https://www.netflix.com/in/title/81436990"
+    },
+    {
+        "id":3,
+        "img":"https://occ-0-2164-2186.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSaxW7HqP8BldNO2q-jw9IpV0TUDjtjUmhXvK8nKLXcepLsdypyTzzB5QQqNL6Ow8crexz9qWkKeP9lVBcVPC3fb374Gui5CEC8.jpg?r=7dd",
+        "name":"Crew",
+        "rating":5.9,
+        "Audio":"Hindi [Original]",
+        "Starring":"Tabu, Kareena Kapoor, Kriti Sanon",
+        "Subtitles":"English,Hindi",
+        "Web_url":"https://www.netflix.com/in/title/81672746"
+    },
+    {
+        "id":4,
+        "img":"https://occ-0-2164-2186.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdAOPyGHCSClYSzHl-PjvHbi5dO-ex_LNOEu_RaRw_aC77DnHDjUsi-Qx7OhhD5GFgb-NAPBoJykr3JFU1c_bUxsPkUg2PHWpRY.jpg?r=f0a",
+        "name":"Srikanth",
+        "rating":8.4,
+        "Audio":"Hindi [Original]",
+        "Starring":"Rajkummar Rao, Jyothika, Alaya F",
+        "Subtitles":"English,Hindi",
+        "Web_url":"https://www.netflix.com/in/title/81631011"
+    },
+    {
+        "id":5,
+        "img":"https://occ-0-2164-2186.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR5KeEy-uwrhtlNIHo8WFNgKSYmIjS4TOhBzBIMomgrIVX3Qggwp38K3SK1ZcxwpmdxwMBlGUzyXI9YEtn1BhyMgzGpkKYp2Z-zxdCRjzmY3eKcqldcM6TQQarsKD3acYRVyd3-PFXj6TydHkQAK9FbS3hXpOFv763Yy6JCVDisrgnRMy-NM8O17BEPDNOg.jpg?r=8f2",
+        "name":"Phir Aayi Hasseen Dillruba",
+        "rating":5.8,
+        "Audio":"Hindi [Original]",
+        "Starring":"Taapsee Pannu, Vikrant Massey, Sunny Kaushal",
+        "Subtitles":"English,Hindi",
+        "Web_url":"https://www.netflix.com/in/title/81683052"
+    },
+    {
+        "id":6,
+        "img":"https://occ-0-2164-2186.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfF6DDP9H0k3knc4_Uh2-SECtSrqoG6SQmvrWAmf12GWPRHP--iiQclbKu6xhsdzYz4_BTBj7g3LJWlcOK7P-3AUUNgdeerNUfk.jpg?r=e65",
+        "name":"Dunki",
+        "rating":6.6,
+        "Audio":"Hindi [Original]",
+        "Starring":"Shah Rukh Khan, Taapsee Pannu, Boman Irani",
+        "Subtitles":"English,Hindi",
+        "Web_url":"https://www.netflix.com/in/title/81731618"
+    },
+    {
+        "id":7,
+        "img":"https://occ-0-2164-2186.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYbvEKwmncSS7AZJ0IZl_u5s66klNWCDFZzIFWg6Risz_Puz129JhV66vAh6k7DyySjagCuOgRWuWWKs07u4aBYLZZoTNGV6l2s.jpg?r=c9a",
+        "name":"Mr. & Mrs. Mahi",
+        "rating":6,
+        "Audio":"Hindi [Original]",
+        "Starring":"Rajkummar Rao, Janhvi Kapoor, Zarina Wahab",
+        "Subtitles":"English,Hindi",
+        "Web_url":"https://www.netflix.com/in/title/81712516"
+    },
+    {
+        "id":8,
+        "img":"https://occ-0-2164-2186.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSTTFsy67imvZjqhjagGbePIEfZEX4om_XGu6P6WJoDp4Z74BjWnNIozK94hZUnDdNTwVUbOZkNeXOrdq2uPUAfWOrawho5DZhYWdMmLRkvsgMxy7vjetJSI94WVL8KPlf8H.jpg?r=fb9",
+        "name":"Wild Wild Punjab",
+        "rating":5,
+        "Audio":"Hindi [Original]",
+        "Starring":"Varun Sharma, Sunny Singh, Manjot Singh",
+        "Subtitles":"English,Hindi",
+        "Web_url":"https://www.netflix.com/in/title/81730408"
+    },
+    {
+        "id":9,
+        "img":"https://occ-0-2164-2186.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXPTtOgWR5lvdynrqUQ0Hdew8ZE3EdZq99rYf0ldz0Qn3Lj4yfN9RY866CJ1lp-EN3_2HbVO27ntyuW_PgNpF3IS06gJdtkUS4I.jpg?r=f75",
+        "name":"Shaitaan",
+        "rating":8.5,
+        "Audio":"Hindi [Original]",
+        "Starring":"Ajay Devgn, R. Madhavan, Jyothika",
+        "Subtitles":"English,Hindi",
+        "Web_url":"https://www.netflix.com/in/title/81760372"
+    }
+]

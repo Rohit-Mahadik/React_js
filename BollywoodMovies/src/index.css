@@ -1,0 +1,110 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+html body{
+  background-color: #181818;
+  color:	#ffffff ; 
+}
+
+body .nav-container{
+  background-color: 	#000000;
+  /* border: 2px solid red; */
+  width: 100%;height: 63px;
+}
+
+body .other-content{
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+body .rowsss{
+  display: flex ;
+  justify-content: space-around;
+}
+
+body .netflix-cards{
+
+  width: 350px;
+  border: 1px solid rgba(0, 0, 0, 0.301);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  font-family: "Roboto", system-ui;
+  font-weight: 400;
+  border-radius: 5px;
+  background-color: #000000;
+
+}
+
+body .netflix-cards .movie-img{
+  /* border: 2px solid green; */
+  height: 200px;
+}
+
+
+body .netflix-cards .movie-img img{
+  width: 100%;
+  height: 100%;
+}
+
+body .netflix-cards .card_deatils{
+  gap: 4px;
+  /* border: 2px solid green; */
+  height: 250px;
+}
+
+body .netflix-cards .button_app{
+  background-color: #db0000;
+  color: #ffffff;
+  border: none;
+}
+
+.button_app{
+  width: 141px;
+  height: 35px;
+  background-color: #db0000;
+  color: #ffffff;
+  border: none;
+
+}
+
+body .bl-head{
+  /* border: 2px solid red; */
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 900;
+}
+
+.Superhit{
+  background-color: #db0000;
+  padding: 7px;
+  border-radius: 100px;
+
+}
+
+
+body .Footer {
+  /* border: 2px solid red; */
+  margin-top: 100px;
+  padding-bottom: 50px;
+}
+
+body .Footer  .Footer_links{
+  width: 230px;
+  /* border: 2px solid red; */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+body .Footer .Footer_links a{
+  text-decoration: none;
+  color: #737373;
+  font-size: 14px;
+}
+
+
+body .Footer .Footer_links a:hover{
+  text-decoration: underline;
+}
